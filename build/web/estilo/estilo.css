@@ -1,0 +1,53 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 27/03/2018, 20:58:57
+    Author     : Administrador
+*/  
+.margem
+{
+    margin-top: 15px;
+    margin-left: 15px;
+    margin-right: 15px;
+    margin-button:15px;    
+}
+
+.navbar
+{
+    margin:15px;    
+}
+
+
+
+.menu_index
+{
+      
+    padding: 5px;
+}
+
+h3
+{
+   margin-left:15px; 
+   text-align: center;   
+}
+form
+{
+  margin-left:15px;  
+}
+.control-label
+{
+    margin-left:5px; 
+    font-weight: bold;
+   
+}
+.table-hover
+{
+    margin-left:15px;  
+}
+p
+{
+    margin:15px;
+}

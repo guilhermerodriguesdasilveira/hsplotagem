@@ -1,0 +1,26 @@
+SMAP
+form_005fcompra_jsp.java
+JSP
+*S JSP
+*F
++ 0 form_compra.jsp
+form_compra.jsp
++ 1 banner2.jsp
+banner2.jsp
++ 2 menu_restrito.jsp
+menu_restrito.jsp
+*L
+5,28:64
+5#1,3:92
+32#0,3:95
+5#2,86:98
+34#0,11:184
+45:195,3
+46,5:198
+51:203,3
+52,8:206
+59:261,6
+59,9:216
+67:280,6
+67,17:227
+*E
